@@ -1,0 +1,6 @@
+duplicatessearcher\DuplicatesSearcher.class
+customiterator\CustomArrayIterator.class
+customiterator\exceptions\NextElementHasNotException.class
+duplicatessearcher\HashSetDuplicatesSearcher.class
+duplicatessearcher\BruteForceDuplicatesSearcher.class
+restful\main.class
